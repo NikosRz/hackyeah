@@ -5,3 +5,12 @@
 
 - **[Excalidraw](https://excalidraw.com/)** - sketching plugin for VS Code
 - **[Shottr](https://shottr.cc/)** - Advanced screenshoting tool
+- **[Warp](https://www.warp.dev/)** - Terminal on steroids
+- **[CyberChef](https://gchq.github.io/CyberChef)** - Data processing tool
+- **[VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)** - Live editing web pages extension
+- **[ToDoist](https://todoist.com/)** - Nice and helpful to-do list
+- **[GitLens](https://rectangleapp.com/)** - Git extension rof VSCode
+- **[Rectangle](https://rectangleapp.com/)** - Rearrange windows on Mac
+- **[Bitwarden](https://bitwarden.com/)** - Password manager
+
+**Thank you for your attendance**
