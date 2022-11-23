@@ -9,7 +9,7 @@
 - **[CyberChef](https://gchq.github.io/CyberChef)** - Data processing tool
 - **[VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)** - Live editing web pages extension
 - **[ToDoist](https://todoist.com/)** - Nice and helpful to-do list
-- **[GitLens](https://rectangleapp.com/)** - Git extension rof VSCode
+- **[GitLens](https://gitlens.amod.io/)** - Git extension rof VSCode
 - **[Rectangle](https://rectangleapp.com/)** - Rearrange windows on Mac
 - **[Bitwarden](https://bitwarden.com/)** - Password manager
 
